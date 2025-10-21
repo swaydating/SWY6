@@ -1,0 +1,17 @@
+struct AppearanceStylePayload { /* Properties */ }
+struct PersonalityTraitsPayload { /* Properties */ }
+struct DateNightPayload { /* Properties */ }
+struct LifestylePreferencesPayload { /* Properties */ }
+struct SportsPreferencesPayload { /* Properties */ }
+struct HobbiesSkillsPayload { /* Properties */ }
+struct PoliticalStancePayload { /* Properties */ }
+struct MoviePreferencesPayload { /* Properties */ }
+struct CausesPayload { /* Properties */ }
+struct MusicPreferencesPayload { /* Properties */ }
+struct TravelLocationsPayload { /* Properties */ }
+struct OutdoorActivityPayload { /* Properties */ }
+struct GoingOutPreferencesPayload { /* Properties */ }
+struct StayingInPreferencesPayload { /* Properties */ }
+struct FanFavouritesPayload { /* Properties */ }
+struct SocialMediaUsagePayload { /* Properties */ }
+struct GamingPreferencesPayload { /* Properties */ }
