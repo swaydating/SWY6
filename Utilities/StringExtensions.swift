@@ -1,0 +1,1 @@
+//\n//  StringExtensions.swift\n//  SWY6\n//\n//  Created on 2025-10-21\n//\n\nimport Foundation\n\nextension String {\n    var trimmed: String {\n        trimmingCharacters(in: .whitespacesAndNewlines)\n    }\n}
