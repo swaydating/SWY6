@@ -1,0 +1,53 @@
+// !SYSTEM GENERATED - DO NOT EDIT
+
+/* Begin PBXProject section */
+/*************************************************************/
+/* !PBXProject section */
+
+// General project settings
+
+{
+    archiveVersion = 1;
+    classes = {
+    };
+    createDate = 0;
+    compatibilityVersion = "Xcode 13.0";
+    objectVersion = 46;
+    rootObject = PBXProject;
+}
+
+/* End PBXProject section */
+
+/* Begin PBXFileReference section */
+/*************************************************************/
+/* !PBXFileReference section */
+
+/* File references for all Swift files */
+
+/* Models */
+/* Views */
+/* ViewModels */
+/* Services */
+/* Components */
+/* Extensions */
+/* Utils */
+/* Main entry point */
+/* SWY6App.swift */
+
+/* End PBXFileReference section */
+
+/* Begin PBXBuildFile section */
+/*************************************************************/
+/* !PBXBuildFile section */
+
+/* Build settings for SwiftUI app */
+
+/* End PBXBuildFile section */
+
+/* Begin PBXNativeTarget section */
+/*************************************************************/
+/* !PBXNativeTarget section */
+
+/* Target settings and configurations */
+
+/* End PBXNativeTarget section */
